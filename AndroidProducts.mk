@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_radxa0_tab.mk
+    $(LOCAL_DIR)/lineage_nicepool_rtk.mk
